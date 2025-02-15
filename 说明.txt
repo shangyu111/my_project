@@ -1,0 +1,28 @@
+
+环境： Python3.7
+
+
+
+安装命令：
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
+
+运行命令：
+
+python  manage.py runserver   --insecure 127.0.0.1:8080
+
+
+
+浏览器打开：
+localhost:8080/django8zxltngv/admin/dist/index.html
+localhost:8080/django8zxltngv/front/dist/index.html  （没有前台则无需打开这个）
+
+
+管理员账号：admin
+管理员密码：admin
+
+
+前台用户账号密码说明：直接在前台页面注册新账号密码即可进行登录
+
+
+
+
